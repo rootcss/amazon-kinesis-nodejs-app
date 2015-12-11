@@ -7,15 +7,16 @@
 
 
 <b><u>To run the 'prototype'. Use commands:</u></b>:
-cd prototype
-node runner.js create_stream
-node runner.js list_streams
-node runner.js list_streams
-node runner.js describe_stream
-sh streamer.sh and keep it running..
-
-then, <i>node read.js</i> in a separate tab.
+<ul>
+<li>cd prototype</li>
+<li>node runner.js create_stream</li>
+<li>node runner.js list_streams</li>
+<li>node runner.js list_streams</li>
+<li>node runner.js describe_stream</li>
+<li>sh streamer.sh and keep it running..</li>
+<li>then, <i>node read.js</i> in a separate tab.</li>
+</ul>
 
 <b><u>To run the main 'app'. Use commands:</u></b>:
-To create stream use the commands and scripts of prototype. [Producer]
-For the [Consumer], use: <i>node consumer.js</i>
+<li>To create stream use the commands and scripts of prototype. [Producer]</li>
+<li>For the [Consumer], use: <i>node consumer.js</i></li>
