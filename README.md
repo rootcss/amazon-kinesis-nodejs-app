@@ -11,7 +11,6 @@
 <li>cd prototype</li>
 <li>node runner.js create_stream</li>
 <li>node runner.js list_streams</li>
-<li>node runner.js list_streams</li>
 <li>node runner.js describe_stream</li>
 <li>sh streamer.sh and keep it running..</li>
 <li>then, <i>node read.js</i> in a separate tab.</li>
